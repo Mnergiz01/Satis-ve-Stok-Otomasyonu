@@ -1,0 +1,1 @@
+Klasörler birleştirip çalıştırılmalı
